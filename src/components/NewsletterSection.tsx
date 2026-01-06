@@ -15,7 +15,7 @@ export const NewsletterSection = () => {
     // Simulate API call
     await new Promise(resolve => setTimeout(resolve, 1000));
     
-    toast.success("Welcome to AIDA!", {
+    toast.success("Welcome to Klyvo!", {
       description: "You've been added to our newsletter.",
       position: "top-center",
     });

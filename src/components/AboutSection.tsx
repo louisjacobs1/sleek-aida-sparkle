@@ -34,7 +34,7 @@ export const AboutSection = () => {
               Desire
             </span>
             <h2 className="font-display text-4xl md:text-5xl font-semibold mb-6">
-              Why Choose AIDA
+              Why Choose Klyvo
             </h2>
             <p className="text-muted-foreground text-lg leading-relaxed mb-10">
               We believe that beautiful design should be accessible to everyone. 
@@ -65,7 +65,7 @@ export const AboutSection = () => {
             <div className="aspect-[4/5] bg-secondary rounded-sm overflow-hidden shadow-elevated">
               <img 
                 src="https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=800&q=80" 
-                alt="AIDA brand craftsmanship"
+                alt="Klyvo brand craftsmanship"
                 className="w-full h-full object-cover"
               />
             </div>
